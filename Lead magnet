@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tobillos de Hierro — Recupera tu movilidad en 7 días</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;700&display=swap" rel="stylesheet">
+
+<style>
+body {
+  margin:0;
+  font-family:'DM Sans',sans-serif;
+  background:#0a0a0f;
+  color:#e8e0d4;
+  line-height:1.6;
+}
+
+.container {
+  max-width:900px;
+  margin:auto;
+  padding:20px;
+}
+
+h1,h2,h3 {
+  font-family:'Bebas Neue',sans-serif;
+  letter-spacing:1px;
+}
+
+.hero {
+  text-align:center;
+  padding:80px 20px;
+}
+
+.hero h1 {
+  font-size:64px;
+  margin:0;
+}
+
+.hero span {
+  color:#d4a853;
+}
+
+.hero p {
+  font-size:20px;
+  margin:20px 0;
+  color:#c8bfad;
+}
+
+.cta {
+  display:inline-block;
+  background:#d4a853;
+  color:#000;
+  padding:16px 30px;
+  text-decoration:none;
+  font-weight:bold;
+  margin-top:20px;
+}
+
+.section {
+  margin:60px 0;
+}
+
+.box {
+  background:#12131a;
+  padding:25px;
+  border-radius:8px;
+  margin-top:20px;
+}
+
+ul {
+  padding-left:20px;
+}
+
+li {
+  margin-bottom:10px;
+}
+
+.highlight {
+  color:#d4a853;
+  font-weight:bold;
+}
+
+.center {
+  text-align:center;
+}
+
+.footer {
+  text-align:center;
+  padding:40px;
+  color:#666;
+  font-size:12px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- HERO -->
+<section class="hero">
+  <h1>TOBILLOS <span>DE HIERRO</span></h1>
+  <p>Elimina la molestia, recupera estabilidad y vuelve a moverte sin miedo en solo 7 días</p>
+  <a href="#cta" class="cta">Empezar ahora</a>
+</section>
+
+<!-- PROBLEMA -->
+<section class="section">
+  <h2>¿Te pasa esto?</h2>
+  <ul>
+    <li>Rigidez al bajar escaleras</li>
+    <li>Molestias al correr o saltar</li>
+    <li>Sensación de tobillo débil</li>
+    <li>Descansas… pero el problema vuelve</li>
+  </ul>
+
+  <div class="box">
+    <p><span class="highlight">Error común:</span> parar o ignorarlo.</p>
+    <p>Ambos empeoran el problema.</p>
+  </div>
+</section>
+
+<!-- SOLUCIÓN -->
+<section class="section">
+  <h2>La solución real</h2>
+  <p>No necesitas reposo.</p>
+  <p>Necesitas el <span class="highlight">estímulo correcto</span>.</p>
+
+  <div class="box">
+    <ul>
+      <li>Movilidad</li>
+      <li>Fuerza</li>
+      <li>Control neuromuscular</li>
+    </ul>
+  </div>
+</section>
+
+<!-- PLAN -->
+<section class="section">
+  <h2>Plan de 5 minutos al día</h2>
+
+  <div class="box">
+    <ul>
+      <li>Movilidad en pared → 2x10</li>
+      <li>Elevaciones de talón → 2x12</li>
+      <li>Equilibrio → 2x20s</li>
+      <li>Círculos → 2x10</li>
+    </ul>
+  </div>
+
+  <p class="center">✔ Resultados en menos de 7 días</p>
+</section>
+
+<!-- TRANSICIÓN -->
+<section class="section">
+  <h2>Pero aquí está el problema...</h2>
+
+  <p>La mayoría mejora un poco…</p>
+  <p>Y luego vuelve a lesionarse.</p>
+
+  <div class="box">
+    <p><span class="highlight">Porque falta soporte real bajo carga.</span></p>
+  </div>
+</section>
+
+<!-- PRODUCTO -->
+<section class="section">
+  <h2>El factor que acelera todo</h2>
+
+  <div class="box">
+    <p>Una buena tobillera:</p>
+    <ul>
+      <li>Reduce riesgo de recaída</li>
+      <li>Aumenta estabilidad</li>
+      <li>Permite entrenar sin miedo</li>
+    </ul>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="section center" id="cta">
+  <h2>Recupera tu tobillo desde hoy</h2>
+  <p>Empieza con el sistema + descubre el soporte adecuado</p>
+
+  <a href="#" class="cta">Ver la tobillera recomendada</a>
+</section>
+
+</div>
+
+<div class="footer">
+Tobillos de Hierro · Uso personal
+</div>
+
+</body>
+</html>
